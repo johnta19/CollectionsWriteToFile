@@ -1,0 +1,29 @@
+ArrayList:
+add = 9
+remove = 961
+add = 4
+remove = 964
+
+LinkedList:
+add = 10
+remove = 8
+add = 13
+remove = 3
+
+HashSet:
+add = 51
+remove = 21
+add = 39
+remove = 9
+
+LinkedHashSet:
+add = 43
+remove = 23
+add = 47
+remove = 8
+
+TreeMap:
+add = 143
+remove = 35
+add = 61
+remove = 9
